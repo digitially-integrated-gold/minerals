@@ -1,0 +1,2 @@
+# minerals
+DIG Mineral Coins
